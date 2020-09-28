@@ -1,0 +1,77 @@
+
+.info {
+min-height: 550px;
+background-color: #F5F5F5;
+margin: 0 auto;
+padding: 10;
+width: 400px;
+box-sizing: border-box;
+overflow: hidden;
+}
+
+.checkbox1{
+position: relative;
+left: 40px;
+}
+.checkbox2{
+  position: relative;
+  left: 220px;
+  bottom: 20px;
+}
+.checkbox3{
+  position: relative;
+  left: 40px;
+}
+.checkbox4{
+  position:relative;
+  left:220px;
+  bottom: 20px;
+}
+
+.container1{
+  text-align: center;
+}
+.container2 {
+  text-align: center;
+}
+.button1{
+width:80%;
+border: 1px solid #3498db;
+
+border-radius: 8px;
+background: #3498db;
+padding: 10px 30px;
+font-size: 20px;
+color: #ffffff;
+font-family: "times new roman";
+}
+.lorem{
+font-size: 11px;
+text-align: center;
+margin-left: 16px;
+margin-right: 16px;
+
+}
+.lines{
+content:'';
+position: relative;
+top: 40px;
+margin: 0 auto;
+height:2px;
+background: black;
+width: 80%;
+
+}
+
+.button2{
+width: 80%;
+border: 1px solid #2ECC40;
+border-radius: 8px;
+background: #088A29;
+position:relative;
+bottom: 0px;
+padding: 10px 80px;
+font-size: 20px;
+color: #ffffff;
+font-family: "times new roman";
+}
